@@ -5,8 +5,9 @@ class Contact extends Component {
     render() {
         return (
             <div>
-                <h2>About</h2>
-                <p>We are actors working with actors and we react to things.</p>
+                <h2>Contact</h2>
+                <p>Phone: 1-800-WE-REACT</p>
+                <p>Email: info@ReactActors.com</p>
             </div>
         );
     }
